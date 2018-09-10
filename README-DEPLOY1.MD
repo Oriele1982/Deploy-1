@@ -37,4 +37,6 @@
     keywords elegidas en la busqueda. También instalo en Wp el plugin Yoast Seo que me permite manejar de una mejor 
     manera las keywords al redactar una entrada o una nueva página en el sitio.
 
-6°- Para acceder a wordpress el nombre de usuario es bastet1982 y la contraseña es deploy_1_kleaner
+6°- Las screenshots se encuentran dentro de la carpeta images del theme mesmerize.
+
+7°- Para acceder a wordpress el nombre de usuario es bastet1982 y la contraseña es deploy_1_kleaner
